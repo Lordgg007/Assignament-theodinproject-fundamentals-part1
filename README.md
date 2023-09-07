@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-click[here](https://lordgg007.github.io/Assignament-theodinproject-fundamentals-part1/)
+click [here](https://lordgg007.github.io/Assignament-theodinproject-fundamentals-part1/)
 
 
 
@@ -49,19 +49,11 @@ To get a local copy up and running follow these simple example steps.
 - github: [@Lordgg007](https://github.com/Lordgg007)
 - LinkedIn: [@Gaudy](https://linkedin.com/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Lordgg007/Assignament-theodinproject-fundamentals-part1/issues).
 
 ## Show your support
 
