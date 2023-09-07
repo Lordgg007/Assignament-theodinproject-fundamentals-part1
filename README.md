@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - github: [@Lordgg007](https://github.com/Lordgg007)
--LinkedIn: [@Gaudy](https://linkedin.com/linkedinhandle)
+- LinkedIn: [@Gaudy](https://linkedin.com/linkedinhandle)
 
 👤 **Author2**
 
